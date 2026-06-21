@@ -1,37 +1,40 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/infosainaidu-maker/infosainaidu-maker/main/banner.svg" width="100%" alt="Sai Purna Banner"/>
+<!-- TOP HILL BANNER - save banner.svg in your repo root -->
+<img src="banner.svg" width="100%" alt="Sai Purna Banner"/>
 
-<br/>
+<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sai+Purna+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;AI+Tools+Explorer+%F0%9F%A4%96;Always+Learning+%F0%9F%93%9A;Building+the+Future+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <h1>Kandhula Sai Purna Chandra Sekhara Naidu</h1>
 <h3>🌐 Web Developer | 🤖 AI Enthusiast | 💻 CS Student | 📍 India</h3>
 
-<p>
-  <a href="https://sainaidu.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sainaidu.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
-  <a href="https://vercel.com" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sai-purna-kandhula-778aa13ba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/purna_the_rock" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/elite_cru" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/infosainaidu-maker" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-infosainaidu--maker-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://sainaidu.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-sainaidu.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+<a href="https://vercel.com" target="_blank">
+  <img src="https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/sai-purna-kandhula-778aa13ba" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/purna_the_rock" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/elite_cru" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://github.com/infosainaidu-maker" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-infosainaidu--maker-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=infosainaidu-maker&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/infosainaidu-maker?label=Followers&style=social" alt="Followers"/>
 
 </div>
@@ -100,7 +103,7 @@ I'm a passionate **Web Developer** and **Computer Science student** currently st
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=infosainaidu-maker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=infosainaidu-maker&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=infosainaidu-maker&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
@@ -122,7 +125,7 @@ I'm a passionate **Web Developer** and **Computer Science student** currently st
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=infosainaidu-maker&theme=tokyonight&no-frame=true&row=1&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=infosainaidu-maker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
 
 </div>
 
@@ -135,7 +138,7 @@ HTML / CSS        ████████████████░░░░  
 JavaScript        ██████████████░░░░░░   70%
 Python            ████████░░░░░░░░░░░░   40%
 Java              ██████░░░░░░░░░░░░░░   30%
-Photo Editing     ████████████████████   95%
+Photo Editing     ████████████████████  100%
 Video Editing     ██████████████████░░   90%
 AI Tools          ████████████████░░░░   80%
 ```
@@ -151,7 +154,7 @@ AI Tools          ████████████████░░░░  
   </tr>
   <tr>
     <td>🎨</td>
-    <td>I can <b>edit photos & videos</b> professionally — creativity is my superpower</td>
+    <td>I can <b>edit photos &amp; videos</b> professionally — creativity is my superpower</td>
   </tr>
   <tr>
     <td>🏥</td>
@@ -159,7 +162,7 @@ AI Tools          ████████████████░░░░  
   </tr>
   <tr>
     <td>☁️</td>
-    <td>I deploy projects on both <b>Netlify and Vercel</b> for speed & reliability</td>
+    <td>I deploy projects on both <b>Netlify and Vercel</b> for speed &amp; reliability</td>
   </tr>
   <tr>
     <td>💡</td>
@@ -243,6 +246,7 @@ AI Tools          ████████████████░░░░  
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/infosainaidu-maker/infosainaidu-maker/main/banner_footer.svg" width="100%" alt="Footer Water Banner"/>
+<!-- FOOTER WATER BANNER - save banner_footer.svg in your repo root -->
+<img src="banner_footer.svg" width="100%" alt="Footer Water Banner"/>
 
 </div>
