@@ -243,6 +243,6 @@ AI Tools          ████████████████░░░░  
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/infosainaidu-maker/infosainaidu-maker/main/banner_footer.svg" width="100%" alt="Footer Water Banner"/>
+<img src="https://raw.githubusercontent.com/infosainaidu-maker/infosainaidu-maker/main/banner footer.svg" width="100%" alt="Footer Water Banner"/>
 
 </div>
